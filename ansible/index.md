@@ -1,8 +1,0 @@
-# Ansible
-
-
-## Instalação
-
-## Configuração
-
-## Uso
